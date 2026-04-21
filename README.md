@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChelsieCarel
-- 👀 I’m interested in Data Science,IA and climate change.I also like to work like a volunteer in some event organises by my IA communities
-- 🌱 I’m currently learning Data science at national advanced school of engineering Yaoundé
+- 👀 I’m interested in Data Science and project collaboration
 - 💞️ I’m looking to collaborate on Big data,IA and NoSQL,french people or not
 - 📫 How to reach me view my LinkedIn Prodil Dongmo Wandji Chelsie Carel 
 - 😄 Pronouns: Ms
