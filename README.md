@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChelsieCarel
-- 👀 I’m interested in Data Science and project collaboration
+- 👀 I’m interested in Data Science and MLops
 - 💞️ I’m looking to collaborate on Big data,IA and NoSQL,french people or not
 - 📫 How to reach me view my LinkedIn Prodil Dongmo Wandji Chelsie Carel 
 - 😄 Pronouns: Ms
